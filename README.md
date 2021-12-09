@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on ~~Your Mom~~ Building [my business](http://FozFuncs.com/).
 - 🌱 I’m currently learning these programming languages:
- [x] Python
- [x] Java
- [ ] C++
- [ ] Java
- [ ] HTML
- [ ] PHP
- [ ] Matlab
- [ ] Assembly
+- [x] Python
+- [x] Java
+- [ ] C++
+- [ ] Java
+- [ ] HTML
+- [ ] PHP
+- [ ] Matlab
+- [ ] Assembly
 - 👯 I’m looking to collaborate **on @KimJammer 's projects**
