@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **these programming languages**:
   - [x] **Python**
   - [x] **Java**
+  - [x] **LabView**
   - [ ] **C++**
   - [ ] **Java**
   - [ ] **HTML**
