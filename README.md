@@ -11,7 +11,6 @@
   - [x] **Java**
   - [x] **LabView**
   - [ ] **C++**
-  - [ ] **Java**
   - [ ] **HTML**
   - [ ] **PHP**
   - [ ] **Matlab**
