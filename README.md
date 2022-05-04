@@ -10,8 +10,8 @@
   - [x] **Python**
   - [x] **Java**
   - [x] **LabView**
-  - [ ] **C++**
-  - [ ] **HTML**
+  - [x] **C++**
+  - [x] **HTML** (I'm kidding, don't sue me)
   - [ ] **PHP**
   - [ ] **Matlab**
   - [ ] **Assembly**
