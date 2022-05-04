@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on **Building [my business](http://FozFuncs.com/)**.
 - 👯 I’m looking to take over **@KimJammer 's projects**
 - 🌱 I’m currently learning **these programming languages**:
+- I'm not
   - [x] **Python**
   - [x] **Java**
   - [x] **LabView**
