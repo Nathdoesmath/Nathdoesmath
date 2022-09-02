@@ -13,6 +13,8 @@
   - [x] **LabView**
   - [x] **C++**
   - [x] **HTML** (I'm kidding, don't sue me)
+  - [x] **C**
+  - [x] **C#**
   - [ ] **PHP**
   - [ ] **Matlab**
   - [ ] **Assembly**
