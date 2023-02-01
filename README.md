@@ -4,16 +4,15 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathdoesmath&card_width=495&langs_count=10&bg_color=424549&title_color=15AFB7&text_color=E2F1F4)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on **Building [my business](http://FozFuncs.com/)**.
-- 👯 I’m looking to take over **@KimJammer 's projects**
-- 🌱 I’m currently learning **these programming languages**:
+- 🔭 I’m currently working on **Building [my business](https://FozFuncs.com/)**.
+- 🌱 I’m currently learning **these programming/markup languages**:
   - [x] **Python**
   - [x] **Java**
-  - [x] **LabView**
   - [x] **C++**
-  - [x] **HTML** (I'm kidding, don't sue me)
+  - [x] **HTML**
   - [x] **C**
   - [x] **C#**
+  - [x] **JavaScript**
   - [ ] **PHP**
-  - [ ] **Matlab**
+  - [x] **Matlab**
   - [ ] **Assembly**
