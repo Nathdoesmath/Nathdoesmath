@@ -8,11 +8,14 @@
 - 🌱 I’m currently learning **these programming/markup languages**:
   - [x] **Python**
   - [x] **Java**
-  - [x] **C++**
-  - [x] **HTML**
+  - [x] **CAPL**
   - [x] **C**
   - [x] **C#**
+  - [x] **C++**
+  - [x] **HTML**
   - [x] **JavaScript**
+  - [x] **SvelteKit**
+  - [ ] **Kubernetes**
   - [ ] **PHP**
   - [x] **Matlab**
   - [ ] **Assembly**
